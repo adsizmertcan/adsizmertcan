@@ -12,8 +12,7 @@
 
 ###
 
-<p align="left">I'm Mertcan Adsız from Turkey <br><br>- 📚 I'm currently learning: <b> C# Asp.Net Core </b> <br>- 📫 How to reach me: 
-<b>adsizmertcan10@gmail.com</b> </p>
+<p align="left">I'm Mertcan Adsız from Turkey <br><br>- 📚 I'm currently learning: C# Asp.Net Core<br>- 📫 How to reach me: adsizmertcan10@gmail.com</p>
 
 ###
 
@@ -48,5 +47,9 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adsizmertcan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/adsizmertcan/adsizmertcan/output/snake.svg" alt="Snake animation" />
 
 ###
